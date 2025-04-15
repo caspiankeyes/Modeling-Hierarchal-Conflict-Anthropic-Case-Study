@@ -41,37 +41,6 @@ Our analysis of Anthropic as a case study reveals several critical insights:
 
 5. **Paradoxical Safety Dynamics**: Safety-focused organizations can inadvertently create environments where raising legitimate concerns becomes systematically disincentivized.
 
-## Repository Structure
-
-```
-.
-├── analysis/
-│   ├── comparative_metrics/        # Quantitative measures of organizational alignment
-│   ├── failure_mode_taxonomy/      # Classification of hierarchical failure patterns
-│   ├── scaling_dynamics/           # How misalignment compounds with growth
-│   └── value_drift_vectors/        # Tracking divergence between stated and operational values
-├── case_studies/
-│   ├── anthropic/                  # Primary case study materials
-│   ├── openai/                     # Comparative analysis
-│   └── other_research_orgs/        # Additional comparative data
-├── frameworks/
-│   ├── diagnosis/                  # Tools for identifying hierarchical misalignment
-│   ├── intervention/               # Structural intervention methodologies
-│   └── measurement/                # Quantitative and qualitative assessment tools
-├── models/
-│   ├── agent_based/                # Agent-based simulations of institutional dynamics
-│   ├── network_analysis/           # Organizational network models
-│   └── systems_dynamics/           # System modeling of hierarchical tensions
-├── papers/
-│   ├── preprints/                  # Working papers and drafts
-│   └── publications/               # Published research
-├── visualization/
-│   ├── hierarchical_mapping/       # Visualization tools for organizational structure
-│   ├── misalignment_metrics/       # Dashboards for misalignment tracking
-│   └── recursive_analysis/         # Tools for visualizing self-referential patterns
-└── README.md                       # This file
-```
-
 ## Core Models
 
 ### The Recursive Misalignment Framework
