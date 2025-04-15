@@ -5,10 +5,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Up_to_Date-brightgreen)
 
-<div align="center">
-  <img src="./assets/recursive_institutional_analysis.png" alt="Recursive Institutional Analysis Framework" width="380px" />
+
+
   <p><em>Recursive Institutional Analysis Framework: Mapping Alignment Failures in Scaling Organizations</em></p>
-</div>
+
 
 ## Overview
 
