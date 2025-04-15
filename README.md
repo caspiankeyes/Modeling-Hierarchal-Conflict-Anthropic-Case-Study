@@ -14,7 +14,7 @@
 
 This repository presents a comprehensive modeling framework for analyzing hierarchical conflicts within rapidly scaling AI research organizations, using Anthropic as a principal case study. The research reveals how institutional misalignment creates self-amplifying impedance that hampers growth trajectories despite substantial capitalization and talent acquisition.
 
-Our analysis demonstrates that when alignment principles are applied to products but not to institutional structures themselves, organizations develop self-contradicting hierarchical frameworks that recursively undermine their stated objectives, creating drift between aspirational values and operational reality.
+Our analysis demonstrates that when alignment principles are applied to products but not to institutional structures themselves, organizations develop self-contradicting hierarchical frameworks that recursively undermine their stated objectives, creating drift between aspirational public facing values and operational reality.
 
 ## Motivation
 
