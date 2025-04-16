@@ -4,7 +4,12 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0--alpha-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Up_to_Date-brightgreen)
-
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
+> 
 
 
   <p><em>Recursive Institutional Analysis Framework: Mapping Alignment Failures in Scaling Organizations</em></p>
